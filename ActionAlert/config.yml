@@ -1,0 +1,12 @@
+join-message: '§2§l%player%§r§6 joined §aCode§1Blox§l§6 BETA'
+quit-message: '§2§l%player%§r§6 left §aCode§1Blox§l§6 BETA'
+death-message:
+  pvp: '%player was killed by %killer%'
+  suicide: '%player% comit suicide'
+  projectile: '%player% was mowed down'
+  contact: '%player% hugged a cactus'
+  fire: '%player% was playing with fire'
+  drowning: '%player% forgot how to swim'
+  lava: '%player% thought the lava was a hot tub'
+  explosition: '%player% was killed by TNT'
+  fall: '%player% forgot to crouch'

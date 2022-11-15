@@ -1,0 +1,10 @@
+configVersion: 4
+distance: 101
+message: §cReturn to Map
+messageTp: §cYou cannot teleport outside the world border!
+messageTpOp: §aWorld Border - Bypassed
+teleportToSpawn: true
+checkVehicleMovement: true
+opBypass: true
+worlds:
+- Lobby

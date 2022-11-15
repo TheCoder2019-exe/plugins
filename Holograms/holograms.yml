@@ -1,0 +1,140 @@
+version: 2
+holograms:
+  add:
+    update: -1
+    data: []
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []
+  exit:
+    update: -1
+    data: []
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []
+  discord:
+    update: -1
+    data:
+    - - §aJoin our Discord server!
+      - §6discord.gg/9c33rY3a6S
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []
+  stats:
+    update: 1
+    data:
+    - - §a%player%§a'§as Statistics
+      - §6§l<§a----------§6>
+      - '§1Nicked as§6: §1%player_displayname%'
+      - §a%server_online%§6/§a%server_max_players% §aPlayers Online
+      - '§1Your Ping§6: §a%player_ping%'
+    - - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []
+  apply:
+    update: -1
+    data:
+    - - §aWant to apply for staff?
+      - '§1You can apply here at:'
+      - §6codebloxmc.tk/apply
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []
+  sus1:
+    update: -1
+    data:
+    - - §cImposter
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []
+  create:
+    update: -1
+    data: []
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []
+  owners:
+    update: -1
+    data:
+    - - '§aOwners:'
+      - §1TheCoder2019
+      - §6LIL MONGREL
+      - ''
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []
+  staff:
+    update: -1
+    data:
+    - - §6§lStaff Roster
+      - §a-----
+      - §aBoweryParsley50
+      - §aHazdoboy
+      - §aJkagamer32
+      - §aClankzen
+      - §aWat3rmelon8523
+      - §2camerontheviking331
+      - §aSurerPaladin509
+      - §2REZWillits07
+      - §aYeet§o#4056
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []
+  join:
+    update: -1
+    data:
+    - - §cWelcome to
+      - §aCode§1Blox §6§lBETA
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []
+  example:
+    update: -1
+    data:
+    - - Example hologram
+      - Yes, and second line
+      - '!!!'
+    - - Zkusebni hologram
+      - Ano, druhy radek
+      - '!!!'
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []

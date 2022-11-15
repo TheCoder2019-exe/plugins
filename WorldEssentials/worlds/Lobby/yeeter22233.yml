@@ -1,0 +1,13 @@
+inventories:
+  survival:
+    0:
+    - 208
+    - 0
+    - 1
+    - 0
+  enderchest: {}
+xp: 0
+xplevel: 0
+food: 20
+health: 20.0
+ver: 3

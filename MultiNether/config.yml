@@ -1,0 +1,7 @@
+# Worlds that should have their own nether worlds
+multiNetherWorlds:
+#  - "example1"
+#  - "example2"
+
+# Nether world names are in the format <world name>-nether and missing worlds will be generated using the default nether generator on startup
+# Worlds that are not on the list will use the default nether

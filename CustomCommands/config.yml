@@ -1,0 +1,38 @@
+#Prefix
+#The prefix applies to all CustomCommands
+prefix: §6CodeBlox §a» 
+
+#/hub
+command1cmd: hub
+command1message: " §6Teleporting to Lobby..."
+command1output: mw tp Lobby
+command1permmision: server.permissions.general
+command1description: Go to Hub
+
+#/mod
+command2cmd: mod
+command2message: ""
+command2output: nick "§a§lMOD §6>> §r§2%player%"
+command2permmision: server.permissions.moderator
+command2description: Show MOD rank in your name
+
+#/modp
+command3cmd: modp
+command3message: ""
+command3output: nick "§a[+] §lMOD §6>> §r§2%player%"
+command3permmision: server.permissions.moderatorplus
+command3description: Show Code+ and MOD rank in your name
+
+#/modp
+command3cmd: owner
+command3message: ""
+command3output: nick "§a[+] §d§lOWNER §6>> §r§a%player%"
+command3permmision: server.permissions.owner
+command3description: §l§c Only OWNER can use this
+
+#test
+command3cmd: §bTest
+command3message: "1"
+command3output: say %player%
+command3permmision: server.permissions.programmer
+command3description: Debug CustomCommands.jar
